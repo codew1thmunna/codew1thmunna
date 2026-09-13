@@ -65,7 +65,7 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 [![](https://komarev.com/ghpvc/?username=codew1thsumit&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🌐 Connect With Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codew1thsumit)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/codew1thsumit](https://www.instagram.com/ll__munna____bhai__ll))
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codew1thsumit)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.sumitbhaya@gmail.com)
 
